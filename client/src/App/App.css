@@ -1,0 +1,23 @@
+
+.vacancy-container {
+  margin-top: 20px;
+}
+
+.navbar {
+  background-color: #d8ff6c;
+}
+
+.navbar-brand {
+  color: #5b0090;
+  font-weight: 700;
+}
+
+.pagination button {
+  margin: 0 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.pagination button:hover {
+  background-color: #ddd;
+}
